@@ -26,15 +26,11 @@ h1:hover{ color: white;
 img{ width:100%;
     height: 350px; }
 
-.topic1{ color: green;
-         padding: 10px;
-         margin-top: 10px;
-         padding-left: 40%; }
+h2{ color: green;
+    padding: 5px;
+    margin-top: 10px;
+    padding-left: 40%; }
 
-.topic2{ color:green;
-         padding: 10px;
-         margin-top: 10px;
-         padding-left: 40%; }
-
-p{ margin: 10px; }
-
+p{ margin: 10px; 
+   padding: 5px;}
+   
