@@ -34,3 +34,8 @@ h2{ color: green;
 p{ margin: 10px; 
    padding: 5px;}
    
+.nilam{
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+}
